@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "target": "es6",
+        "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
         "noImplicitAny": false,
         "outDir": ".",
